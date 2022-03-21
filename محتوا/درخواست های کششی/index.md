@@ -32,5 +32,8 @@ topics:
 children:
   - /committing-changes-to-your-project
   - /collaborating-with-pull-requests
----
+---pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message
+    - /pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository
+    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-requestTouch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Welcome to Gboard clipboard, any text you copy will be saved here.Welcome to Gboard clipboard, any text you copy will be saved here.
 
